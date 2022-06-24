@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Тетрис</string>
+    <string name="high_score_default">Наибольший счет 0</string>
+    <string name="new_game">Новая игра</string>
+    <string name="reset_score">Сбросить счет</string>
+    <string name="exit">Выход</string>
+    <string name="reset_succ">Счет успешно сброшен</string>
+    <string name="high_score">Наибольший счет</string>
+    <string name="current_score">Счет</string>
+    <string name="bt_restart">Перезапуск</string>
+    <string name="game_over">Конец игры</string>
+</resources>
